@@ -1,9 +1,3 @@
-# Video Demo for the implementation: 
-
-[![IMAGE ALT TEXT](http://img.youtube.com/vi/hdSwyAZeWXo/0.jpg)](https://www.youtube.com/watch?v=hdSwyAZeWXo "Want Craw4AI Free Deployments? Watch This Now")
-
-# 🚀🤖 Crawl4AI: Open-source LLM Friendly Web Crawler & Scraper.
-
 <div align="center">
 
 <a href="https://trendshift.io/repositories/11716" target="_blank"><img src="https://trendshift.io/api/badge/repositories/11716" alt="unclecode%2Fcrawl4ai | Trendshift" style="width: 250px; height: 55px;" width="250" height="55"/></a>
